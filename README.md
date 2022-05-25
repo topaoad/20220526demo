@@ -2,7 +2,7 @@
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
 
 ## Name
-[Chatbot｜とらゼミ](https://chatbot-demo-1bc98.web.app/)
+[Chatbot｜rename](https://chatbot-demo-1bc98.web.app/)
 
 ## 01. Overview
 This is DEMO app for "日本一わかりやすいReact入門【実践編】" produced by とらゼミ  
